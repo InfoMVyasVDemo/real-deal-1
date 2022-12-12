@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our AMAZING slide deck!"
+title: "Welcome to our amazing slide deck!"
 ---
 
 Use the right arrow to begin!
